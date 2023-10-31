@@ -1,7 +1,10 @@
 
 👋 Hi, I'm Ajish Kurian Daniel.
+
 👀 I'm an aspiring Data Scientist with a strong background in chemistry.
+
 🌱 I'm currently equipping myself with skills for creating predictive models.
+
 📫 You can reach me at ajishkurien@gmail.com.
 
 <!---
